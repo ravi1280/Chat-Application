@@ -2,6 +2,11 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/ravis/OneDrive/Documents/GitHub/Chat-Application/Java/Chatify/src/java/controller/UserSignUp.java</file>
+            <file>file:/C:/Users/ravis/OneDrive/Documents/GitHub/Chat-Application/Java/Chatify/src/java/model/Validation.java</file>
+            <file>file:/C:/Users/ravis/OneDrive/Documents/GitHub/Chat-Application/Java/Chatify/src/java/model/HibernateUtil.java</file>
+            <file>file:/C:/Users/ravis/OneDrive/Documents/GitHub/Chat-Application/Java/Chatify/src/java/controller/UserSignIn.java</file>
+        </group>
     </open-files>
 </project-private>

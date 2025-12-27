@@ -114,8 +114,9 @@ export default function SignIn() {
             onEndEditing={async () => {
               if (getMobile.length == 10) {
                 // console.log(getMobile);
-                let response = await fetch(BASE_URL+"/Chatify/CheckLetters?mobile=" +getMobile
+                let response = await fetch(BASE_URL+"/Chatify/CheckLetters?mobile="+getMobile
                 );
+                
                 if (response.ok) {
                   let json = await response.json();
                   // setAlert(json.letters);
